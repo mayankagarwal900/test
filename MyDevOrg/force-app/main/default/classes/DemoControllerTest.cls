@@ -2,7 +2,7 @@
 public class DemoControllerTest {
 	@isTest
     static void testConstrcutorLogic() {
-        //Initialize you 
+        //Initialize you constructor 
     	DemoController dc = new DemoController();    
     }
 }
